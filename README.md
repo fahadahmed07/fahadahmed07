@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-#### I'm a Full Stack Developer with 2+ years of experience in developing enterprise applications and open-source software.
+#### I'm a Full Stack Developer with 3+ years of experience in developing enterprise applications and open-source software.
 
 - 🔭 &nbsp;I’m currently working on something cool 😉
 - 🌱 &nbsp;I’m currently learning everything 🤣
